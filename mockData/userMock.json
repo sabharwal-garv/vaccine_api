@@ -1,0 +1,34 @@
+[
+    {
+    "id" : 1,
+    "firstName" : "Garv",
+    "age" : 27,
+    "email": "garv@gmail.com",
+    "phone": "12345567",
+    "State": "HR",
+    "vacination_status" : {
+            "vacine": "COVAXIN", 
+            "isFirstDoseCompleted": true,
+            "isSecondDoseCompleted": false,
+            "firstDoseDate": "2-May-2022",
+            "secondDoseDate": null,
+            "daysLeftForSecondDoes": 25
+        }
+    },
+    {
+        "id" : 1,
+        "firstName" : "Ramesh",
+        "age" : 27,
+        "email": "garv@gmail.com",
+        "phone": "123455600",
+        "State": "DELHI",
+        "vacination_status" : {
+                "vacine": "COVISHIELD", 
+                "isFirstDoseCompleted": true,
+                "isSecondDoseCompleted": false,
+                "firstDoseDate": "1-APRIL-2022",
+                "secondDoseDate": null,
+                "daysLeftForSecondDoes": 55
+            }
+    }
+]
